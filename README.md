@@ -5,6 +5,8 @@
 
 **Objective:** Give a brief report of the current state of Internet security. 
 **
+
+
 1.### MHN-Admin Deployment (Required)**
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
@@ -22,7 +24,7 @@ https://user-images.githubusercontent.com/98780052/204121737-928582e4-fd8e-44e6-
 
 
 
-2.  ### Dionaea Honeypot Deployment (Required)
+2.### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
@@ -37,7 +39,7 @@ https://user-images.githubusercontent.com/98780052/204121802-64dd0b71-c6bb-45cb-
 
 
 
-3. ### Database Backup (Required) 
+3.### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
@@ -47,7 +49,7 @@ https://user-images.githubusercontent.com/98780052/204121802-64dd0b71-c6bb-45cb-
 The MHN-Admin uses mongoDb as RDBMS.
 JSON files are used to log information about the attacks against the honeypot. The information it logs is: timestamps, IPS, ports, protocol and the target honeypot. 
 
-4. ### Deploying Additional Honeypot(s) (Optional)
+4.### Deploying Additional Honeypot(s) (Optional)
 
 #### P0F Honeypot
 
@@ -61,7 +63,7 @@ P0F attempts to identify system running on remote machines
 https://user-images.githubusercontent.com/98780052/204121834-e0327eff-554a-4855-bd27-cc7c913d27e5.mp4
 
 
-5. ### Malware Capture and Identification (Optional)
+5.### Malware Capture and Identification (Optional)
 
 #### X Malware
 
