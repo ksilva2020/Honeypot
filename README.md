@@ -7,7 +7,7 @@
 **
 
 
-1.### MHN-Admin Deployment (Required)**
+### MHN-Admin Deployment (Required)**
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/98780052/204121737-928582e4-fd8e-44e6-
 
 
 
-2.### Dionaea Honeypot Deployment (Required)
+### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
@@ -63,7 +63,7 @@ P0F attempts to identify system running on remote machines
 https://user-images.githubusercontent.com/98780052/204121834-e0327eff-554a-4855-bd27-cc7c913d27e5.mp4
 
 
-5.### Malware Capture and Identification (Optional)
+### Malware Capture and Identification (Optional)
 
 #### X Malware
 
@@ -78,12 +78,12 @@ SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
 <img src="x-malware.gif">
 
 
-6.### Resources
+### Resources
 
 Google Cloud
 Kali Linux 
 
-7. ## Notes
+### Notes
 
 Describe any challenges encountered while doing the assignment.
 
