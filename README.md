@@ -20,7 +20,10 @@ Installation: Established SSH access to the MHN-Admin and used commands from CP.
 
 <img src="mhn-admin.gif">
 
-https://user-images.githubusercontent.com/98780052/204121737-928582e4-fd8e-44e6-b13a-af60be44e82d.mp4
+
+
+https://user-images.githubusercontent.com/98780052/204158878-728e5e8d-26b9-4972-a21c-b52d8fd580b7.mp4
+
 
 
 
